@@ -19,5 +19,6 @@
   "bugs": {
     "url": "https://github.com/jax16/exel/issues"
   },
-  "homepage": "https://github.com/jax16/exel#readme"
+  "homepage": "https://github.com/jax16/exel#readme",
+  "private":"true"
 }
