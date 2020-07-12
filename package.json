@@ -1,0 +1,23 @@
+{
+  "name": "exel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.conig.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jax16/exel.git"
+  },
+  "keywords": [
+    "js",
+    "exel"
+  ],
+  "author": "jax16",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jax16/exel/issues"
+  },
+  "homepage": "https://github.com/jax16/exel#readme"
+}
